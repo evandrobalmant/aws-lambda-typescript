@@ -7,6 +7,8 @@ As dependências necessárias para executar o projeto são:
 - [Node.js](https://nodejs.org/en/)
 - [Serverless Framework](https://serverless.com/)
 - [Credenciais da conta AWS](https://www.youtube.com/watch?v=KngM5bfpttA)
+ - [AWS - Config Credentials](https://serverless.com/framework/docs/providers/aws/cli-reference/config-credentials/)
+ - [Configure Multiple AWS Profiles](https://serverless-stack.com/chapters/configure-multiple-aws-profiles.html)
 
 ## Como foi criado
 
